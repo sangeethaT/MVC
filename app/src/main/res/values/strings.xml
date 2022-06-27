@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArchitectureApp</string>
+    <string name="error_message">Please try again</string>
+</resources>
